@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.exe.config
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.exe
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.pdb
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.exe
+C:\Users\Admin\Documents\EvenAndOdd\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.pdb
